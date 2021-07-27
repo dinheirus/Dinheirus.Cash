@@ -25,3 +25,6 @@ https://dinheirus.cash/en
 
 WhitePaper:
 https://drive.google.com/file/d/1dwyTa-7Qk8l3gAIOFfwtYCg8EZTgZ4kW/view?usp=sharing
+
+Telegram Group
+https://t.me/dinheirus
